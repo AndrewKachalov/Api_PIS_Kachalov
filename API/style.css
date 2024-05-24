@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#weather-form {
+    margin-bottom: 20px;
+}
+
+#weather-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
